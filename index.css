@@ -1,0 +1,29 @@
+.about {
+  font-size: 14pt;
+}
+.product {
+}
+
+article {
+  padding: 15px;
+  margin: 30px;
+  border-radius: 20px;
+  border: 10px solid forestgreen;
+  background-color: azure
+}
+
+button {
+  background-color: lightgreen;
+  font-weight: 100;
+}
+
+body {
+  background-color: whitesmoke
+
+.price {
+  font-size: 12;
+  font-weight: bold;
+}
+s {
+  font-weight: lighter;
+}
